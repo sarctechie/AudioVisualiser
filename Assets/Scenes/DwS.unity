@@ -688,7 +688,7 @@ MonoBehaviour:
   rmsValue: 0
   dbValue: 0
   pitchValue: 0
-  visualModifier: 300
+  visualModifier: 75
   smoothSpeed: 10
   maxVisualScale: 25
   keepPercentage: 0.1
