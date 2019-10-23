@@ -1,5 +1,5 @@
 # AudioVisualiser
-A simple Audio visualiser made on Unity engine with three songs loaded on it. 
+A simple Audio visualiser made on Unity engine with three songs.
 
 Songs on the application:
 1. Constellation~ Win and Woo
